@@ -1,1 +1,1 @@
-web: gunicorn eaglefinancial-vue.wsgi --log-file –
+web: gunicorn Django_Vue.wsgi --log-file –
