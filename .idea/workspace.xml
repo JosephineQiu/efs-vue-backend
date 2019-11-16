@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5d3182f4-bb13-4b4c-9d4e-cfe088880320" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/Django_Vue.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Django_Vue.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Django_Vue/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Django_Vue/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/efs_vue/efs_vue" beforeDir="false" afterPath="$PROJECT_DIR$/efs_vue/efs_vue" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -203,6 +199,7 @@
       <workItem from="1573841106289" duration="103000" />
       <workItem from="1573847280995" duration="851000" />
       <workItem from="1573879673765" duration="566000" />
+      <workItem from="1573880264933" duration="598000" />
     </task>
     <servers />
   </component>
