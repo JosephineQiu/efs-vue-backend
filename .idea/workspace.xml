@@ -70,7 +70,7 @@
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="sqlite" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ISQA8380_EagleFinancial" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -200,7 +200,7 @@
       <workItem from="1573841106289" duration="103000" />
       <workItem from="1573847280995" duration="851000" />
       <workItem from="1573879673765" duration="566000" />
-      <workItem from="1573880264933" duration="1675000" />
+      <workItem from="1573880264933" duration="3141000" />
     </task>
     <servers />
   </component>
