@@ -628,7 +628,7 @@ var HTTPTransport = function () {
 
     _classCallCheck(this, HTTPTransport);
 
-    this.schemes = ['http', 'https'];
+    this.schemes = ['https', 'https'];
     this.auth = options.auth || null;
     this.headers = options.headers || {};
     this.fetch = options.fetch || fetch;
@@ -765,7 +765,7 @@ module.exports = {
 },{"../errors":11,"../utils":15,"isomorphic-fetch":16,"url-parse":19,"url-template":21}],14:[function(require,module,exports){
 'use strict';
 
-var http = require('./http');
+var http = require('./https');
 
 module.exports = {
   HTTPTransport: http.HTTPTransport
@@ -952,7 +952,7 @@ module.exports = function required(port, protocol) {
   if (!port) return false;
 
   switch (protocol) {
-    case 'http':
+    case 'https':
     case 'ws':
     return port !== 80;
 
