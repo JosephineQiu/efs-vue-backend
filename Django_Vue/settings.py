@@ -170,6 +170,7 @@ CORS_ORIGIN_WHITELIST = (
     'localhost:8080',
     '127.0.0.1:8080',
     'https://efs-django-vue.herokuapp.com/',
+    'https://efs-django-vue.herokuapp.com/',
 )
 
 CORS_ORIGIN_ALLOW_ALL = False
