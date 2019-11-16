@@ -1,6 +1,6 @@
 *.pyc
-../db.sqlite3
+db.sqlite3
+.idea
 __pycache__
-/env
-/.idea
+/.env
 Django_Vue/local_settings.py
