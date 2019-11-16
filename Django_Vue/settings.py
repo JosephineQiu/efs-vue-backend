@@ -27,7 +27,7 @@ SECRET_KEY = 'fam4!#hnk8w_yoludqx+gyx2=cojz8l3_o8h&&_ct7hpw3q7fy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://efs-django-vue.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['https://efs-django-vue.herokuapp.com/', 'localhost']
 
 
 # Application definition
@@ -166,10 +166,10 @@ JWT_AUTH = {
     'JWT_REFRESH_EXPIRATION_DELTA': datetime.timedelta(days=7),
 }
 
-CORS_ORIGIN_WHITELIST = (
-    'localhost:8080',
-    '127.0.0.1:8080'
-)
+# CORS_ORIGIN_WHITELIST = (
+#     'localhost:8080',
+#     '127.0.0.1:8080'
+# )
 
 CORS_ORIGIN_ALLOW_ALL = True
 
