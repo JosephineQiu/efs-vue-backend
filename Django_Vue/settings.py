@@ -27,7 +27,7 @@ SECRET_KEY = 'fam4!#hnk8w_yoludqx+gyx2=cojz8l3_o8h&&_ct7hpw3q7fy'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://efs-django-vue.herokuapp.com/', 'localhost']
+ALLOWED_HOSTS = ['eaglefinancial-vue-backend.herokuapp.com', 'localhost']
 
 
 # Application definition
