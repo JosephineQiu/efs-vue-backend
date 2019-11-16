@@ -79,6 +79,7 @@ TEMPLATES = [
     },
 ]
 
+
 WSGI_APPLICATION = 'Django_Vue.wsgi.application'
 
 
@@ -174,7 +175,7 @@ CORS_ORIGIN_ALLOW_ALL = True
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
-    os.path.join(PROJECT_ROOT, 'static'),
+    os.path.join(PROJECT_ROOT, 'dist/static'),
 )
 
 
