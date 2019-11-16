@@ -172,7 +172,7 @@ CORS_ORIGIN_WHITELIST = (
     'https://efs-django-vue.herokuapp.com/',
 )
 
-CORS_ORIGIN_ALLOW_ALL = True
+CORS_ORIGIN_ALLOW_ALL = False
 
 # Extra places for collectstatic to find static files.
 STATICFILES_DIRS = (
